@@ -432,7 +432,6 @@ const StorageCalculator = () => {
                      </div>
                      <div>
                         <h4 className="text-base font-medium text-slate-700">Yearly</h4>
-                        <p className="text-xs text-slate-400">Every 365 days</p>
                      </div>
                   </div>
                   <div className="text-right">
